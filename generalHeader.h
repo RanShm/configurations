@@ -1,3 +1,3 @@
-#ifndef GENETALHEADER_H
+#ifndef GENERALHEADER_H
 #define GENERALHEADER_H
 
