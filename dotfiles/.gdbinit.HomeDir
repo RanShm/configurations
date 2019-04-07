@@ -1,0 +1,9 @@
+#GDB init file
+#place this file in your /home/user Dir
+
+# Enable the usage of this file
+set auto-load local-gdbinit on
+set auto-load safe-path /
+ 
+
+

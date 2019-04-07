@@ -1,0 +1,20 @@
+#The next files are "nice to have" when installing new environment
+
+    #stow - manage programs installed from source and dotfiles
+# instructions: https://linuxconfig.org/how-to-use-gnu-stow-to-manage-programs-installed-from-source-and-dotfiles
+
+    #Tilix - advenced GTK3 terminal emulator. Allows you to split terminals and use more easaly.
+https://gnunn1.github.io/tilix-web/
+
+    #Powerlevel9k - theme for ZSH (you need to replace the original terminal shell to ZSH in order to use it). Allows you to have shortcuts, themes for git and more.
+https://github.com/bhilburn/powerlevel9k
+
+    #Tree - shows a files tree starting from the current location.
+
+# gitkraken - a GUI for git
+    https://www.gitkraken.com/
+
+# Tilix or tmux terminal
+    https://hackernoon.com/a-gentle-introduction-to-tmux-8d784c404340
+
+

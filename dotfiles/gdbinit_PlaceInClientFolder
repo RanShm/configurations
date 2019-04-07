@@ -1,0 +1,23 @@
+#GDB init file
+
+# ________ Set follow fork mode _______#
+# used to keep folowing the child process in case of multythreaded 
+
+set follow-fork-mode child
+
+# Enable breakpoints pending
+set breakpoint pending on
+
+# set breakpoint by the following format:
+# b FIleName: line
+
+#b genericServer.cpp:132
+
+# pass arguments in argc[] argv[], r = run the program
+# r -l . -d 
+
+
+#set spesific variables:
+#exapmpe: classA->m_boolMember=true
+
+

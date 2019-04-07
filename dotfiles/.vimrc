@@ -14,3 +14,6 @@ set expandtab
 :highlight ExtraWhitespace ctermbg=red guibg=red
 :autocmd Syntax * syn match ExtraWhitespace /\s\+$\| \+\ze\t/
 
+" retab on save - will modify the tabs to spaces
+:autocmd BufWritePre * : retab
+
